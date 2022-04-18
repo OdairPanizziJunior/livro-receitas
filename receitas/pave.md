@@ -1,4 +1,4 @@
-# Strogonoff de Frango :chicken:
+# Pavê :moon_cake:
 
 ### Ingredientes
 * 1 lata de creme de leite
