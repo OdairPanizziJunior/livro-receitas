@@ -1,6 +1,6 @@
 # Massa Carbonara :spaghetti:
 
-### Inredientes
+### Ingredientes
 * Bacon Picado a gosto
 * Queijo ralado a gosto
 * Pimenta-do-Reino a gosto
